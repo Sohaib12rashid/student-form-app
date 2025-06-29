@@ -1,0 +1,42 @@
+NAME  :  Sohaib Rashid
+
+CLASS : 12
+
+SECTION : B
+
+ADMISSION NO. : 1234
+
+MOBILE NO. : 12356745763476
+
+ADDRESS : kanpur
+
+===================================================
+
+NAME  :  Ankit
+
+CLASS : 12
+
+SECTION : B
+
+ADMISSION NO. : 12456
+
+MOBILE NO. : 123456780
+
+ADDRESS : armapur
+
+===================================================
+
+NAME  :  Sohaib Rashid123
+
+CLASS : 12
+
+SECTION : B
+
+ADMISSION NO. : 123456565656565656565656
+
+MOBILE NO. : 09455
+
+ADDRESS : 642/4 Shiv nagar Maswanpur
+
+===================================================
+
